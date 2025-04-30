@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Eternum Engine Core — Quantum Cipher
+Eternum Engine Core — Quantum-Cipher
 Built for resilience, evolution, and truth synthesis.
 """
 
